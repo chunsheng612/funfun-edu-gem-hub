@@ -1,0 +1,2 @@
+# Minimal requirements for FunFun Edu Gem Hub scripts
+tabulate>=0.9.0

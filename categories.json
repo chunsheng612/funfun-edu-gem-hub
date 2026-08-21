@@ -1,0 +1,910 @@
+{
+  "special_education": {
+    "title": "特殊教育與個別化支持 (Special Education & UDL)",
+    "description": "IEP 目標撰寫、UDL 通用設計、AAC 溝通圖卡、ABC 行為紀錄、易讀版/低認知負荷教材、情緒調節與社交故事",
+    "gems": [
+      {
+        "id": "1-Mfy6sMTwN4VWjmmkSsn855fmzq4CDTV",
+        "name": "FunFun.AI-易讀版教材轉換機器人(特殊教育)",
+        "filename": "FunFun.AI-易讀版教材轉換機器人(特殊教育).md"
+      },
+      {
+        "id": "103UJb-1wyXNqZzVExExz3-1PJ5_-dnXZ",
+        "name": "FunFun.AI-AAC 溝通圖卡產生器(特殊教育)",
+        "filename": "FunFun.AI-AAC 溝通圖卡產生器(特殊教育).md"
+      },
+      {
+        "id": "12uFQI_YQ2iOIZoV7cw9_AitvpuNSHFIH",
+        "name": "FunFun.AI-小一生活任務圖卡生成器",
+        "filename": "FunFun.AI-小一生活任務圖卡生成器.md"
+      },
+      {
+        "id": "15S2UgLOHXwB6cI8JZgOP_zArizpUzWdS",
+        "name": "FunFun.AI-合理調整評量(特殊教育)",
+        "filename": "FunFun.AI-合理調整評量(特殊教育).md"
+      },
+      {
+        "id": "16bxD64Y_c0I35JMOBs695NmmhAkDKOza",
+        "name": "FunFun.AI-ABC 行為觀察紀錄(特殊教育)",
+        "filename": "FunFun.AI-ABC 行為觀察紀錄(特殊教育).md"
+      },
+      {
+        "id": "17cvqE6ci8ytHopikQT2xqO3JXP4aE-0e",
+        "name": "FunFun.AI-特殊教育視覺輔具",
+        "filename": "FunFun.AI-特殊教育視覺輔具.md"
+      },
+      {
+        "id": "1DTwFlVwubFiUIUcBWlUzfcgY-w_su-Dn",
+        "name": "開學第一週班級經營規劃師",
+        "filename": "開學第一週班級經營規劃師.md"
+      },
+      {
+        "id": "1I9fNp6G_FHv0Boq3AEZ0-4j2rX-hO9P8",
+        "name": "FunFun.AI-情緒調節教材(特殊教育)",
+        "filename": "FunFun.AI-情緒調節教材(特殊教育).md"
+      },
+      {
+        "id": "1K_ORaGol6tvInP2cXek5u2z-RYJBYxq0",
+        "name": "FunFun.AI-閱讀理解分層教材(特殊教育)",
+        "filename": "FunFun.AI-閱讀理解分層教材(特殊教育).md"
+      },
+      {
+        "id": "1LOkCl7ADdWIAJgbcd0dy4OBgB_r14rZU",
+        "name": "FunFun.AI-IEP 目標與教材對應助手(特殊教育)",
+        "filename": "FunFun.AI-IEP 目標與教材對應助手(特殊教育).md"
+      },
+      {
+        "id": "1OpIPLQ0kg_EMM4ID-tp-iAsEDHLdxIyE",
+        "name": "FunFun.AI-社交故事教材(特殊教育)",
+        "filename": "FunFun.AI-社交故事教材(特殊教育).md"
+      },
+      {
+        "id": "1RAPKbBp0qP0IUXGKmRQZbpb4rF616KXi",
+        "name": "FunFun.AI-自然探究活動改編(特殊教育)",
+        "filename": "FunFun.AI-自然探究活動改編(特殊教育).md"
+      },
+      {
+        "id": "1RB5JqdNe3COpMQv8uMyBhfNJ2STc5Ha1",
+        "name": "Funfun.AI-任務拆解學習單(特殊教育)",
+        "filename": "Funfun.AI-任務拆解學習單(特殊教育).md"
+      },
+      {
+        "id": "1S23Gh_SxtW4Ma5iT9IiBBtS0ecJZH8nX",
+        "name": "FunFun.AI-親師合作教材說明(特殊教育)",
+        "filename": "FunFun.AI-親師合作教材說明(特殊教育).md"
+      },
+      {
+        "id": "1WRlGG-JwH-UhSLintJKvHddVeSs55_6O",
+        "name": "FunFun.AI-圖像提示卡教材(特殊教育)",
+        "filename": "FunFun.AI-圖像提示卡教材(特殊教育).md"
+      },
+      {
+        "id": "1bWDlh53dK2-564ABlpX-xxUFeRyDTOKY",
+        "name": "FunFun.AI-國語作文鷹架教練(特殊教育)",
+        "filename": "FunFun.AI-國語作文鷹架教練(特殊教育).md"
+      },
+      {
+        "id": "1bdzxa0x6BmauOKUZhUZY8m2k-5-ybOZP",
+        "name": "FunFun.AI-融合課堂教案設計師(特殊教育)",
+        "filename": "FunFun.AI-融合課堂教案設計師(特殊教育).md"
+      },
+      {
+        "id": "1cn_T7o9FLjkn_6F2O_ibia0p09Tg5qc8",
+        "name": "FunFun.AI-生活自理流程卡(特殊教育)",
+        "filename": "FunFun.AI-生活自理流程卡(特殊教育).md"
+      },
+      {
+        "id": "1elHtX207omye_saohMkT_shoqoFgKIUx",
+        "name": "FunFun.AI-校事會議調查小組報告",
+        "filename": "FunFun.AI-校事會議調查小組報告.md"
+      },
+      {
+        "id": "1fISDkwckCV1PtupNdiXhapB3qf6rIllN",
+        "name": "FunFun.AI-UDL教材重編小幫手(特殊教育)",
+        "filename": "FunFun.AI-UDL教材重編小幫手(特殊教育).md"
+      },
+      {
+        "id": "1glGvZPUkfL38UKLHJefJTm6RKYyRZYdf",
+        "name": "FunFun.AI-數學具體化教材(特殊教育)",
+        "filename": "FunFun.AI-數學具體化教材(特殊教育).md"
+      },
+      {
+        "id": "1rd11TM1Gqcx3MbOZ3OhmfxgFi85m3OoU",
+        "name": "FunFun.AI-社會科概念圖教材 (特殊教育)",
+        "filename": "FunFun.AI-社會科概念圖教材 (特殊教育).md"
+      },
+      {
+        "id": "1tw5o0rn1ilklDzRxx03olQvGnzX07xFv",
+        "name": "FunFun.AI-數學錯誤分析與再教學(特殊教育)",
+        "filename": "FunFun.AI-數學錯誤分析與再教學(特殊教育).md"
+      },
+      {
+        "id": "1ydVLIXMb5krQty269Avzq7XaJbywVFqD",
+        "name": "FunFun.AI-分層學習單產生器(特殊教育)",
+        "filename": "FunFun.AI-分層學習單產生器(特殊教育).md"
+      }
+    ]
+  },
+  "lesson_planning": {
+    "title": "教學設計與素養教案 (Lesson Planning & Competency)",
+    "description": "108 課綱三面九項素養教案、公開觀課教案、SEL 社會情緒學習融入、探究實作設計、跨領域教案",
+    "gems": [
+      {
+        "id": "1-nuEwL7tUxQRVoLhklHK0XCyxj5Va0zD",
+        "name": "教案產生器(公開觀課版) BY奕鈞老師",
+        "filename": "教案產生器(公開觀課版) BY奕鈞老師.md"
+      },
+      {
+        "id": "10D4HP2rk_L98DC029cCO3KeAFk9hw5H5",
+        "name": "FunFun.AI-教學演示／公開課課程單堂教案",
+        "filename": "FunFun.AI-教學演示／公開課課程單堂教案.md"
+      },
+      {
+        "id": "10OSw7qTtztgC1VqSjcNElB5LRFk1m7G_",
+        "name": "FunFun.AI-素養導向教案設計資深顧問",
+        "filename": "FunFun.AI-素養導向教案設計資深顧問.md"
+      },
+      {
+        "id": "13YJZYXaBtGg0G41vmZmgVuhKmrd7Uz1V",
+        "name": "FunFun.AI-教案解析與優化助理",
+        "filename": "FunFun.AI-教案解析與優化助理.md"
+      },
+      {
+        "id": "18SdaE_Ez_lVWHsG1zXRqvyhYkr78asCl",
+        "name": "FunFun.AI-計劃撰寫傭人",
+        "filename": "FunFun.AI-計劃撰寫傭人.md"
+      },
+      {
+        "id": "1AtbkjP92nOKru1OIY6jYNOe7VvHhBjgi",
+        "name": "FunFun.AI-素養導向教案設計機器人",
+        "filename": "FunFun.AI-素養導向教案設計機器人.md"
+      },
+      {
+        "id": "1BaRenQvYAIJHsoYoB7_KuAWGgP1IrXFj",
+        "name": "FunFun.AI-教育領域簡報策略專家",
+        "filename": "FunFun.AI-教育領域簡報策略專家.md"
+      },
+      {
+        "id": "1CdE85_rbllZ4CbKJyYUb1Tz4On_2cLUy",
+        "name": "FunFun.AI-媒體素養課程教案機器人",
+        "filename": "FunFun.AI-媒體素養課程教案機器人.md"
+      },
+      {
+        "id": "1MzZC9H0hfT3w8GUuiBz9AYaHjyGYY-y-",
+        "name": "FunFun-SEL教案機器人",
+        "filename": "FunFun-SEL教案機器人.md"
+      },
+      {
+        "id": "1V6HZbfFzQz6-oa6R2UIphmg9KzFrwMIR",
+        "name": "FunFun.AI-課程轉化與教育漫畫生成專家",
+        "filename": "FunFun.AI-課程轉化與教育漫畫生成專家.md"
+      },
+      {
+        "id": "1W2HTigQT6zE6EDHkxeaN_1WIZAjGDT6f",
+        "name": "FunFun.AI-教育AI ChatBOT設計工具",
+        "filename": "FunFun.AI-教育AI ChatBOT設計工具.md"
+      },
+      {
+        "id": "1_0fPfZjoTSs4_urSjYXTaBKqir_ZMs_c",
+        "name": "FunFun-EduGame Weaver Bot",
+        "filename": "FunFun-EduGame Weaver Bot.md"
+      },
+      {
+        "id": "1cLmBy3mMfc9CFPH_X3IeL1WrK5a28SB1",
+        "name": "FunFun.AI-閱讀教案設計助手",
+        "filename": "FunFun.AI-閱讀教案設計助手.md"
+      },
+      {
+        "id": "1gfbhCvKuSiSFbKtyow8q5rdrrEONh5kr",
+        "name": "FunFun.AI-教學學習單生成機器人",
+        "filename": "FunFun.AI-教學學習單生成機器人.md"
+      },
+      {
+        "id": "1ijKy0aydQgdOQJe5vUTkmCNxf78PAAqt",
+        "name": "FunFun.AI-親師溝通AI客製化機器人",
+        "filename": "FunFun.AI-親師溝通AI客製化機器人.md"
+      },
+      {
+        "id": "1mAHl7NmBkAlZlldyFFllbvi710bHOH_s",
+        "name": "FunFun.AI-跨領域教案設計助手",
+        "filename": "FunFun.AI-跨領域教案設計助手.md"
+      },
+      {
+        "id": "1qMghCbDvbRYG54ORpLa1JiqyJGIaMyYt",
+        "name": "海洋教育教案設計引導師",
+        "filename": "海洋教育教案設計引導師.md"
+      },
+      {
+        "id": "1tVMSrgvdAbDyE8AHg5idkZ0AFXxMC_4f",
+        "name": "FunFun.AI-國小活動海報製作工具",
+        "filename": "FunFun.AI-國小活動海報製作工具.md"
+      },
+      {
+        "id": "1uq1fbbdSVIlk5UN7D_VK82as8_Uux17b",
+        "name": "FunFun.AI-AI教學圖解師",
+        "filename": "FunFun.AI-AI教學圖解師.md"
+      },
+      {
+        "id": "1ytqo0AwfYuLJasIN2jriVgaCmUmq39Vh",
+        "name": "FunFun.AI-教案網頁設計師",
+        "filename": "FunFun.AI-教案網頁設計師.md"
+      }
+    ]
+  },
+  "assessment_and_grading": {
+    "title": "評量、命題與作業批改 (Assessment, Grading & Worksheets)",
+    "description": "國小/國中/高中作文辨識與評分批改、雙向細目表素養試題、4F 反思學習單、學生作業追問引導",
+    "gems": [
+      {
+        "id": "12wmAoxcqZmPNjIqTrqFRubtH1B_4Bm07",
+        "name": "FunFun.AI-電子書轉化AI Gems學習工具",
+        "filename": "FunFun.AI-電子書轉化AI Gems學習工具.md"
+      },
+      {
+        "id": "144euERtiX0IJeDYpSdUIkUKWvabFIIZs",
+        "name": "FunFun.AI-成語看圖猜猜看",
+        "filename": "FunFun.AI-成語看圖猜猜看.md"
+      },
+      {
+        "id": "1B_2G-TmRIOJsyj045wTSsU6IY9DGg8F9",
+        "name": "FunFun.AI-訪談聚焦初稿機器人",
+        "filename": "FunFun.AI-訪談聚焦初稿機器人.md"
+      },
+      {
+        "id": "1BbVANYtJJoIg_5c08WmPcHTSeSpjq7I5",
+        "name": "FunFun.AI-素養導向試題設計機器人",
+        "filename": "FunFun.AI-素養導向試題設計機器人.md"
+      },
+      {
+        "id": "1C-QayXdni8rB9Fd2LI24D2oaQqRmv2Bc",
+        "name": "新世紀自然素養題達人 Created by 張仲傑老師",
+        "filename": "新世紀自然素養題達人 Created by 張仲傑老師.md"
+      },
+      {
+        "id": "1D7W1sYGpoRimXr1O5HeAa3QS3YK2_Gpw",
+        "name": "FunFun.AI-橫式英文文字辨識",
+        "filename": "FunFun.AI-橫式英文文字辨識.md"
+      },
+      {
+        "id": "1DMile3Xj-PYLM56dtKgrs8DYCosBjOya",
+        "name": "FunFun.AI-PIRLS四層次閱讀測驗",
+        "filename": "FunFun.AI-PIRLS四層次閱讀測驗.md"
+      },
+      {
+        "id": "1EEEy2OfKoKWd0exyvi7uM--uOw4HEf7i",
+        "name": "FunFun.AI-教材轉國語課心智圖繪圖工具",
+        "filename": "FunFun.AI-教材轉國語課心智圖繪圖工具.md"
+      },
+      {
+        "id": "1FazhcykQxddmkLHdwjGrm_Tyd1B11_6e",
+        "name": "FunFun.AI-高中學測國文手寫機器人",
+        "filename": "FunFun.AI-高中學測國文手寫機器人.md"
+      },
+      {
+        "id": "1GSY-fLFBterTVdDSme9VO-u52OD8q3IE",
+        "name": "FunFun.AI-國小專用ChatGPT",
+        "filename": "FunFun.AI-國小專用ChatGPT.md"
+      },
+      {
+        "id": "1GwXiSvvGlzCZWD8BP0UTo8MIlYNi9owY",
+        "name": "FunFun.AI-國小作文批改(new）",
+        "filename": "FunFun.AI-國小作文批改(new）.md"
+      },
+      {
+        "id": "1JLNAtJgeEY7lXxAqu-dJ0WQ9JYuCucNR",
+        "name": "FunFun.AI-電子書轉化AI Gems評量工具",
+        "filename": "FunFun.AI-電子書轉化AI Gems評量工具.md"
+      },
+      {
+        "id": "1JgH-bflqJd4fuomr7T08jnoZK7fqfRo8",
+        "name": "FunFun.AI-「一字千金」阿城導師",
+        "filename": "FunFun.AI-「一字千金」阿城導師.md"
+      },
+      {
+        "id": "1PaEbCEYTBNDJ7KV7QdXJDXnme2AJ-F0J",
+        "name": "FunFun.AI-教育科技設計師",
+        "filename": "FunFun.AI-教育科技設計師.md"
+      },
+      {
+        "id": "1SgDJzTLYWRn4bbtj64lROYoDp247VRCC",
+        "name": "FunFun.AI-專題評分機器人",
+        "filename": "FunFun.AI-專題評分機器人.md"
+      },
+      {
+        "id": "1Ulm_eN33bXrhTbDMGm0zadF8GgGkjZZo",
+        "name": "FunFun.AI-國中會考作文批改機器人",
+        "filename": "FunFun.AI-國中會考作文批改機器人.md"
+      },
+      {
+        "id": "1VDHWJ8M1Xsl7bYa01_H1kaz39Gbg5J8P",
+        "name": "FunFun.AI-數位學習單AI設計助手",
+        "filename": "FunFun.AI-數位學習單AI設計助手.md"
+      },
+      {
+        "id": "1XgOYwc9BRi-f2y-DOM6aox39cO3M1ReX",
+        "name": "FunFun.AI-素養試題生成",
+        "filename": "FunFun.AI-素養試題生成.md"
+      },
+      {
+        "id": "1__jBF1EzQF0MhXOkhM4Cp-VvD0Vyzyl0",
+        "name": "FunFun.AI-直式作文文字辨識",
+        "filename": "FunFun.AI-直式作文文字辨識.md"
+      },
+      {
+        "id": "1dWtNzLG5kjz5NmLV8NnP7Upwbrlmt73q",
+        "name": "PIRLS親子閱讀討論學習單小助理",
+        "filename": "PIRLS親子閱讀討論學習單小助理.md"
+      },
+      {
+        "id": "1evXR1HgIELkz45WlhGOPC4icK64Ko6Uv",
+        "name": "FunFun.AI-英語文教材閱讀機器人",
+        "filename": "FunFun.AI-英語文教材閱讀機器人.md"
+      },
+      {
+        "id": "1kZMYwPA9Jni0dUR4IZE6yDdohFYnq1tD",
+        "name": "FunFun.AI-教學卓越獎的資深評審委員",
+        "filename": "FunFun.AI-教學卓越獎的資深評審委員.md"
+      },
+      {
+        "id": "1mnnoWpQnlliNHVQG0iWjswfOjXyvY4xl",
+        "name": "FunFun.AI-高中英文手寫評分機器人",
+        "filename": "FunFun.AI-高中英文手寫評分機器人.md"
+      },
+      {
+        "id": "1mvFW58tbuIwZI9CWEWxmf7T2NPoIeC1B",
+        "name": "FunFun.AI-物理生活出題機器人",
+        "filename": "FunFun.AI-物理生活出題機器人.md"
+      },
+      {
+        "id": "1ouyT5M5DnTNSGL8IhFJuAUDSHYLh5-mC",
+        "name": "FunFun.AI-學生作業追問產生器",
+        "filename": "FunFun.AI-學生作業追問產生器.md"
+      },
+      {
+        "id": "1uKHRNnmHpFnFU0EbCDsE1w6NtBcGE-LH",
+        "name": "FunFun.AI-國小作文評分機器人",
+        "filename": "FunFun.AI-國小作文評分機器人.md"
+      },
+      {
+        "id": "1w70ljzFYOEKf4FYPKrQjIjJLic8anEV9",
+        "name": "FunFun.AI-提示詞設計工程師",
+        "filename": "FunFun.AI-提示詞設計工程師.md"
+      }
+    ]
+  },
+  "language_and_reading": {
+    "title": "語文學習與閱讀引導 (Language, Essay & Reading)",
+    "description": "PIRLS 四層次閱讀測驗、國語生字故事漫畫、成語歷史典故解說、英文錯題診斷、畢業藏頭詩創作",
+    "gems": [
+      {
+        "id": "10s2k-r5kX50rZgdlKdVz0mYDU2P9LKoS",
+        "name": "FunFun.AI-橫版遊戲藍圖師",
+        "filename": "FunFun.AI-橫版遊戲藍圖師.md"
+      },
+      {
+        "id": "110QsW2RHZq58QgzJvoBP7VaVKZiSpOwx",
+        "name": "FunFun.AI-英文俚語漫畫專家",
+        "filename": "FunFun.AI-英文俚語漫畫專家.md"
+      },
+      {
+        "id": "11_KrRTnhhfkIlutUIP-oSEueAaT5R3GH",
+        "name": "嘉北國小-防災故事小精靈",
+        "filename": "嘉北國小-防災故事小精靈.md"
+      },
+      {
+        "id": "128XuKw0uunxMjaukSMLACN9PghvwkWmw",
+        "name": "FunFun.AI-國小英語ChatGPT",
+        "filename": "FunFun.AI-國小英語ChatGPT.md"
+      },
+      {
+        "id": "14HV2N4-vOAa1On7Qg494hVP2XuCzrEQV",
+        "name": "FunFun.AI-防災創意說故事機器人",
+        "filename": "FunFun.AI-防災創意說故事機器人.md"
+      },
+      {
+        "id": "14jmjGHAZeyHGuPm-YcpMRk2nuWrpFMN5",
+        "name": "AI作文家教",
+        "filename": "AI作文家教.md"
+      },
+      {
+        "id": "16d4Ccxx9BJg-uWZXtgsEbcShyGr8QfIH",
+        "name": "FunFun.AI-學校榮譽榜公告 AI 助手",
+        "filename": "FunFun.AI-學校榮譽榜公告 AI 助手.md"
+      },
+      {
+        "id": "17BlK2bOxknP1oF1UWCsToTl7tYGUQpCI",
+        "name": "FunFun.AI-古文漫畫機器人",
+        "filename": "FunFun.AI-古文漫畫機器人.md"
+      },
+      {
+        "id": "1ADsmKOIG0qqJ1AYOFOaUitbQQnMf6cqW",
+        "name": "FunFun.AI-成語漫畫專家",
+        "filename": "FunFun.AI-成語漫畫專家.md"
+      },
+      {
+        "id": "1As5JI9Pa3n9iQJHzJ_7ftk8-8or_eLaH",
+        "name": "FunFun.AI-AI 作文教學提示詞設計師 ",
+        "filename": "FunFun.AI-AI 作文教學提示詞設計師.md"
+      },
+      {
+        "id": "1BrJk6xXqR4orj8BqyFGKRhRwjqYnUXZE",
+        "name": "閱讀心得小天使",
+        "filename": "閱讀心得小天使.md"
+      },
+      {
+        "id": "1ErFpM1nlzrw2jEizuGL44Q4kKqa4LNuY",
+        "name": "FunFun.AI-現代流行用語融入古文助教",
+        "filename": "FunFun.AI-現代流行用語融入古文助教.md"
+      },
+      {
+        "id": "1FRDcjRoyHzq04Ezn2oUHZqtvGDbojIg3",
+        "name": "FunFun.AI-二次訪談聚焦",
+        "filename": "FunFun.AI-二次訪談聚焦.md"
+      },
+      {
+        "id": "1HA4xTcZGFxMsimhXRK-z0m9mZmXtUymj",
+        "name": "FunFun.AI-期末評語生成機器人",
+        "filename": "FunFun.AI-期末評語生成機器人.md"
+      },
+      {
+        "id": "1HDWjiLLygTPlPVxzpzoM6HMlJ1YFov9u",
+        "name": "FunFun.AI-分鏡規劃師",
+        "filename": "FunFun.AI-分鏡規劃師.md"
+      },
+      {
+        "id": "1JP4AncjXIly-DqXMJD3jMhFbtBpJyFy0",
+        "name": "FunFun.AI-角色定裝師",
+        "filename": "FunFun.AI-角色定裝師.md"
+      },
+      {
+        "id": "1M2A2BaisJE1LnwNZL_KzeHsaoWy9d016",
+        "name": "FunFun.AI-媒體素養遊戲生成機器人",
+        "filename": "FunFun.AI-媒體素養遊戲生成機器人.md"
+      },
+      {
+        "id": "1NpRn_oXbwDKLzXyiRUPdGIHGKFV13ePR",
+        "name": "直式文字辨識小幫手By鈺珣",
+        "filename": "直式文字辨識小幫手By鈺珣.md"
+      },
+      {
+        "id": "1RK2MjqxJk_WjhCsZ5d8eGUXE0vOFKM7p",
+        "name": "FunFun.AI-親子故事冒險家",
+        "filename": "FunFun.AI-親子故事冒險家.md"
+      },
+      {
+        "id": "1SuQueTwAHr9vhmb7uVyjNI88Kx3TrYnE",
+        "name": "FunFun.AI-簡報思維教練",
+        "filename": "FunFun.AI-簡報思維教練.md"
+      },
+      {
+        "id": "1SvcTAFYRTcn749fbA7I4LdDehVUmT5GA",
+        "name": "FunFun.AI-行事曆美化小助手",
+        "filename": "FunFun.AI-行事曆美化小助手.md"
+      },
+      {
+        "id": "1TvmpLjPLmmmH0lhSTyob5io23Xbz0oKv",
+        "name": "FunFun.AI-場景設定師",
+        "filename": "FunFun.AI-場景設定師.md"
+      },
+      {
+        "id": "1VwqHusMsYZTp6IFqdxhNmITClTJ1m6K0",
+        "name": "生字轉為故事漫畫機器人",
+        "filename": "生字轉為故事漫畫機器人.md"
+      },
+      {
+        "id": "1ZNwx-miVIOTDftZl-OtJqcHP-HN0uj-q",
+        "name": "FunFun.AI-班規圖卡製作大師",
+        "filename": "FunFun.AI-班規圖卡製作大師.md"
+      },
+      {
+        "id": "1_EIUPYYdiyFjoswyTls5vsFbacGMMF1u",
+        "name": "FunFun.AI-學生提問升級助手",
+        "filename": "FunFun.AI-學生提問升級助手.md"
+      },
+      {
+        "id": "1_QYHuWke1Zwk_-6ftcxcUyFa5Srytct-",
+        "name": "FunFun.AI-AI得獎海報師",
+        "filename": "FunFun.AI-AI得獎海報師.md"
+      },
+      {
+        "id": "1avo-9dLLn3lpMerNuvGaTbYbg7SzSXNa",
+        "name": "FunFun.AI-AI情境插圖師",
+        "filename": "FunFun.AI-AI情境插圖師.md"
+      },
+      {
+        "id": "1b7MzcNJQ0HpXTP4cYHhtQ0ZNKCKc-nC-",
+        "name": "嘉北國小-防災繪本插畫總編輯",
+        "filename": "嘉北國小-防災繪本插畫總編輯.md"
+      },
+      {
+        "id": "1cTE8sxmqJeYviJQ3YnRHNfDxWsDHdkks",
+        "name": "FunFun.AI-教材轉心智圖工具",
+        "filename": "FunFun.AI-教材轉心智圖工具.md"
+      },
+      {
+        "id": "1dqZKsdjmjKAheRag5Vdi6GbQh4arGH3f",
+        "name": "FunFun.AI-成語漫畫專家",
+        "filename": "FunFun.AI-成語漫畫專家_2.md"
+      },
+      {
+        "id": "1dudzdHwEBFEMAw4ZFHOOE4GP9mqEFOTG",
+        "name": "storybook機器人",
+        "filename": "storybook機器人.md"
+      },
+      {
+        "id": "1geQkYajZanOyN3wOLf6MqIo2z8o0vKf5",
+        "name": "FunFun.AI-英語名言廣播機器人",
+        "filename": "FunFun.AI-英語名言廣播機器人.md"
+      },
+      {
+        "id": "1gyHoHrm0HmY-6jgLbH5nvNdUjf1jum15",
+        "name": "FunFun.AI-故事語織小幫手",
+        "filename": "FunFun.AI-故事語織小幫手.md"
+      },
+      {
+        "id": "1hEtTmjOjOSl2vG8ctBzTAplUU9aJBPsE",
+        "name": "閱讀心得機器人",
+        "filename": "閱讀心得機器人.md"
+      },
+      {
+        "id": "1intyGhqMgTUXlJYEalDnKwfLExPOq1jt",
+        "name": "FunFun.AI-國小英語GPT",
+        "filename": "FunFun.AI-國小英語GPT.md"
+      },
+      {
+        "id": "1ivP9R3PowmSue6c-jWj75cUz0JYWc8KR",
+        "name": "作文機器人",
+        "filename": "作文機器人.md"
+      },
+      {
+        "id": "1nux4JM6yi36SzghNEvqziUUfGNp_onWP",
+        "name": "FunFun.AI-資源回收簡報的老師",
+        "filename": "FunFun.AI-資源回收簡報的老師.md"
+      },
+      {
+        "id": "1psmgLVgfRbKjnghGgSGXdsqddImSMDxy",
+        "name": "阅读心得小帮手",
+        "filename": "阅读心得小帮手.md"
+      },
+      {
+        "id": "1q0DO8dY7gVZqOwHcrsDYch3ok_YyyMv2",
+        "name": "FunFun.AI-提示詞優化工程師",
+        "filename": "FunFun.AI-提示詞優化工程師.md"
+      },
+      {
+        "id": "1snel-A_616J_TKqccDPx2up8qccuLHqT",
+        "name": "FunFun.AI-AI圖像創意師",
+        "filename": "FunFun.AI-AI圖像創意師.md"
+      },
+      {
+        "id": "1u2I8lIIqIa1myQaHNi0FYMycLGTlOHm0",
+        "name": "遊戲製作大師-方方老師",
+        "filename": "遊戲製作大師-方方老師.md"
+      },
+      {
+        "id": "1v-CIoqemuXbxPMlVC2UIO6iuBYFXIvLP",
+        "name": "FunFun.AI-「日系療癒風」個人配圖生成器",
+        "filename": "FunFun.AI-「日系療癒風」個人配圖生成器.md"
+      },
+      {
+        "id": "1x8sQ4uZwJmboY3N3-Q-BatqgZtsZjWbX",
+        "name": "FunFun.AI-分鏡圖提示詞設計師",
+        "filename": "FunFun.AI-分鏡圖提示詞設計師.md"
+      },
+      {
+        "id": "1y0u",
+        "name": "AI 英文錯題學習助教",
+        "filename": "AI 英文錯題學習助教.md"
+      },
+      {
+        "id": "1y0uDZ-gkcurbjoov1f70rIchz_VUCOie",
+        "name": "AI 英文錯題學習助教",
+        "filename": "AI 英文錯題學習助教_2.md"
+      }
+    ]
+  },
+  "classroom_management": {
+    "title": "班級經營與親師溝通 (Classroom Management & Parent Comm)",
+    "description": "開學第一週救命包、親師 LINE 溝通訊息轉譯、家長疑慮回覆、學期正向評語撰寫、班規圖卡視覺化",
+    "gems": [
+      {
+        "id": "13X7_rtRZ3tVHjLqcssNBBGUqJCEBbgXU",
+        "name": "FunFun.AI-家長問題快速回覆助手",
+        "filename": "FunFun.AI-家長問題快速回覆助手.md"
+      },
+      {
+        "id": "1LAThWFaddCjf6Gd1_ZuvELAKe5vL6GbV",
+        "name": "學期評語工具",
+        "filename": "學期評語工具.md"
+      },
+      {
+        "id": "1VhO7O5Z6fpeEGgaKx8lBZUtNrM9dgUqp",
+        "name": "FunFun.AI-一年級親師訊息轉譯器｜完整提示詞",
+        "filename": "FunFun.AI-一年級親師訊息轉譯器｜完整提示詞.md"
+      },
+      {
+        "id": "1aiV1EZE6ldXscSNSweYI_niTHtXCNAPD",
+        "name": "開學救命包生成師｜教師暑假備課",
+        "filename": "開學救命包生成師｜教師暑假備課.md"
+      },
+      {
+        "id": "1cCssOKwo58QXQg9R0IoXXGkzjTYUoGK1",
+        "name": "FunFun.AI-溝通家長突發事件小幫手",
+        "filename": "FunFun.AI-溝通家長突發事件小幫手.md"
+      },
+      {
+        "id": "1e5MwERKJ2MGmL0PfByZDJkmdKSGyKFCV",
+        "name": "FunFun.AI-回覆家長親師溝通小幫手",
+        "filename": "FunFun.AI-回覆家長親師溝通小幫手.md"
+      },
+      {
+        "id": "1zryWSd8fexKtrmsxZnTh6i6wBexiVuQH",
+        "name": "FunFun.AI-報紙轉成主播的專業寫手",
+        "filename": "FunFun.AI-報紙轉成主播的專業寫手.md"
+      }
+    ]
+  },
+  "visual_and_design": {
+    "title": "視覺設計與教育繪圖 (Visual Design, Posters & Illustration)",
+    "description": "教材心智圖學習單、4x4 角色情緒圖卡、LINE 卡通貼圖、課表美編、研習海報、簡報視覺提示詞",
+    "gems": [
+      {
+        "id": "10jMKQbNniGBTKVhc_QDp7A9bb4b3LZyU",
+        "name": "宣導海報的創意文宣大師",
+        "filename": "宣導海報的創意文宣大師.md"
+      },
+      {
+        "id": "11K6rFKqbn4NhT2HHgf21nfprvAuHFxRA",
+        "name": "FunFun.AI-簡報文稿製圖",
+        "filename": "FunFun.AI-簡報文稿製圖.md"
+      },
+      {
+        "id": "12UKjhrWyEX_Co7Pq6E7fuwMhQ-yXSWUW",
+        "name": "FunFun.AI-「似顏繪」教師圖卡製作工具",
+        "filename": "FunFun.AI-「似顏繪」教師圖卡製作工具.md"
+      },
+      {
+        "id": "13aW1VUN8mOoNWgRpNY1THijA-6iG6ZZ1",
+        "name": "FunFun.AI-Line貼圖製作大師",
+        "filename": "FunFun.AI-Line貼圖製作大師.md"
+      },
+      {
+        "id": "16yETNpRaMnLLrbUmUU2Sf4e2AUy7HV9P",
+        "name": "FunFun.AI-場景地圖設計師",
+        "filename": "FunFun.AI-場景地圖設計師.md"
+      },
+      {
+        "id": "17sNQaPI1SdrZGbyRG-_fk2CpIl76ZBo9",
+        "name": "FunFun.AI-NotebookLM簡報重繪機器人",
+        "filename": "FunFun.AI-NotebookLM簡報重繪機器人.md"
+      },
+      {
+        "id": "1AI3rSk0Jl4RRfjetzgv6ySe1FwyApFxS",
+        "name": "FunFun.AI-學生照片轉漫畫機器人",
+        "filename": "FunFun.AI-學生照片轉漫畫機器人.md"
+      },
+      {
+        "id": "1CtpG7UD8KzcOx5v__0rY5D3FnINpz0pe",
+        "name": "FunFun.AI-圖片清晰工具",
+        "filename": "FunFun.AI-圖片清晰工具.md"
+      },
+      {
+        "id": "1Fq4-t9w3RPp2EIoPo40NvwqEIHmrE7Mr",
+        "name": "FunFun.AI-角色素材設計師",
+        "filename": "FunFun.AI-角色素材設計師.md"
+      },
+      {
+        "id": "1G5tjlbILg_cUlvw0UzHxjTCmCBhtoYPP",
+        "name": "FunFun.AI-沙龍攝影師與影像設計師",
+        "filename": "FunFun.AI-沙龍攝影師與影像設計師.md"
+      },
+      {
+        "id": "1LJmf9kR0RxEZZqm4r-m-b5PS3fTWX4vm",
+        "name": "FunFun.AI-誇張似顏繪插畫師",
+        "filename": "FunFun.AI-誇張似顏繪插畫師.md"
+      },
+      {
+        "id": "1LUhCCSaGHkM9Xxbv6SJQu85tBCt3KLYp",
+        "name": "鼓勵型健康顧問",
+        "filename": "鼓勵型健康顧問.md"
+      },
+      {
+        "id": "1PkCrj3-TV0g-RZXXkHobV2A70CbE0_xn",
+        "name": "★ 個人 IP 產生器",
+        "filename": "★ 個人 IP 產生器.md"
+      },
+      {
+        "id": "1UMFKdPTCA0cIYbrvgcQ4elNt1JlHCyHV",
+        "name": "FunFun.AI-課表美編專家",
+        "filename": "FunFun.AI-課表美編專家.md"
+      },
+      {
+        "id": "1VT34DmL_4Ro17L6TW2Ng4-YGj2itBgDQ",
+        "name": "嘉北國小-米食設計家",
+        "filename": "嘉北國小-米食設計家.md"
+      },
+      {
+        "id": "1Ws5R93IiRXrGQBXy5ogCtX3zVltyxfnz",
+        "name": "遊戲美術總監-方方老師",
+        "filename": "遊戲美術總監-方方老師.md"
+      },
+      {
+        "id": "1ZSiQRno0vQX4kObAoXyvMxWGUFxb9Ry3",
+        "name": "FunFun.AI-班級規則圖像生成器",
+        "filename": "FunFun.AI-班級規則圖像生成器.md"
+      },
+      {
+        "id": "1ZqJdSB4j8sCHEwOUdOnJj9DJKeW_CwNI",
+        "name": "FunFun.AI-研習海報生成工具",
+        "filename": "FunFun.AI-研習海報生成工具.md"
+      },
+      {
+        "id": "1asQ37MQV3kYg2ICk0fe2d-yp1ittCidw",
+        "name": "FunFun.AI-「美式卡通風」個人配圖生成器",
+        "filename": "FunFun.AI-「美式卡通風」個人配圖生成器.md"
+      },
+      {
+        "id": "1bG1v_Dve8AAD96JOP8PohIOnKFzm76zH",
+        "name": "FunFun.AI-似顏繪貼圖生成工具",
+        "filename": "FunFun.AI-似顏繪貼圖生成工具.md"
+      },
+      {
+        "id": "1e_kV5j3qtLwys6u9DPJINmbFxYZUvaTZ",
+        "name": "FunFun.AI-海報製作",
+        "filename": "FunFun.AI-海報製作.md"
+      },
+      {
+        "id": "1fOu-TeGvc4KxchK9ACNxWORXHtWB3aw-",
+        "name": "製作Google Slides簡報大師",
+        "filename": "製作Google Slides簡報大師.md"
+      },
+      {
+        "id": "1hD4Hp3HXb77GQqkag61I6hStXUHCGGdq",
+        "name": "🚨資安與AI隱私諮詢專家🚨",
+        "filename": "🚨資安與AI隱私諮詢專家🚨.md"
+      },
+      {
+        "id": "1haYXQP5Mk_Otbb-1LFu4auo0Q7eKGRkV",
+        "name": "FunFun.AI-學術圖像與圖表架構師",
+        "filename": "FunFun.AI-學術圖像與圖表架構師.md"
+      },
+      {
+        "id": "1iyk87zttrCPRq4UYoKsiapAvDgYdTcMA",
+        "name": "FunFun.AI-「Pop Art 普普風」個人配圖生成器",
+        "filename": "FunFun.AI-「Pop Art 普普風」個人配圖生成器.md"
+      },
+      {
+        "id": "1jA6YGJa4Y-CEQtGqCnOcvzUsn7EufDag",
+        "name": "FunFun.AI-個人專屬可愛食譜 ",
+        "filename": "FunFun.AI-個人專屬可愛食譜.md"
+      },
+      {
+        "id": "1kcVCZPV3Z7BSTAwGXd67438w4rt-0o5A",
+        "name": "🎨出考卷用的插圖🧑‍🎨",
+        "filename": "🎨出考卷用的插圖🧑‍🎨.md"
+      },
+      {
+        "id": "1mswM_V_2QLGEcPl3zPeiguvaXoiK_PUl",
+        "name": "FunFun.AI-Line貼圖生成大師",
+        "filename": "FunFun.AI-Line貼圖生成大師.md"
+      },
+      {
+        "id": "1mwSgEgI3b7wj_7u47Qx1RJ5wx3aWD5tX",
+        "name": "FunFun.AI-AI圖片修改師",
+        "filename": "FunFun.AI-AI圖片修改師.md"
+      },
+      {
+        "id": "1nHnrbUnofOiMu059CX-k87YsHEDKFyAz",
+        "name": "FunFun.AI-職人圖書館海報製作",
+        "filename": "FunFun.AI-職人圖書館海報製作.md"
+      },
+      {
+        "id": "1pjBHsJVM-TDI-EB_Q-dCVk8KvTlpTJyf",
+        "name": "FunFun.AI-研究圖卡翻譯工具",
+        "filename": "FunFun.AI-研究圖卡翻譯工具.md"
+      },
+      {
+        "id": "1q28XtBl-vG035_xL73pckGpSILEav8by",
+        "name": "FunFun.AI-「莫蘭迪色簡約風」個人配圖生成器",
+        "filename": "FunFun.AI-「莫蘭迪色簡約風」個人配圖生成器.md"
+      },
+      {
+        "id": "1szNEXODNRvMdfglH5ynXiM9ArZOoxsWw",
+        "name": "FunFun.AI-注音學習活動生成器",
+        "filename": "FunFun.AI-注音學習活動生成器.md"
+      },
+      {
+        "id": "1vGeWTak8HQsNFzs6R4XOEoMxZFgJ_Np7",
+        "name": "FunFun.AI-學校市長選舉海報製作",
+        "filename": "FunFun.AI-學校市長選舉海報製作.md"
+      },
+      {
+        "id": "1vnams9efst3Q-vyDkhifY3Hend0XN9E0",
+        "name": "FunFun.AI-GreenBuild",
+        "filename": "FunFun.AI-GreenBuild.md"
+      }
+    ]
+  },
+  "gamification": {
+    "title": "遊戲化學習與教具 (Game-based Learning & Interactive Tools)",
+    "description": "教案轉 HTML 互動網頁遊戲 (EduGame)、2D 橫版過關遊戲藍圖、媒體素養互動冒險劇本",
+    "gems": [
+      {
+        "id": "137bfThKu3webLbVwWPOgbtLOlFA0TEiV",
+        "name": "FunFun.AI-APA參考文獻自動改寫",
+        "filename": "FunFun.AI-APA參考文獻自動改寫.md"
+      },
+      {
+        "id": "1AxnSDucCBAI2Nh5zbAatxCVPnl-9dS9v",
+        "name": "FunFun.AI-旅遊數位APP工具",
+        "filename": "FunFun.AI-旅遊數位APP工具.md"
+      },
+      {
+        "id": "1DJLV1e7snqzJhUxFDl6g42kWqn2v4B39",
+        "name": "FunFun.AI-報導小幫手",
+        "filename": "FunFun.AI-報導小幫手.md"
+      },
+      {
+        "id": "1k7Ow-Qb7pSMiih9iTG0ZFY3iEmDjbg-y",
+        "name": "FunFun.AI-教育音樂生成工具",
+        "filename": "FunFun.AI-教育音樂生成工具.md"
+      }
+    ]
+  },
+  "school_admin": {
+    "title": "行政公文與專案計畫 (School Admin, Official Docs & Projects)",
+    "description": "標準公文與簽呈起草 (FormalHelp)、教育部競爭型計畫、教學卓越獎審查診斷、校事會議調查報告",
+    "gems": [
+      {
+        "id": "1-OJV4R8rw1WXhMuic4fsCXsc3sEl5G4X",
+        "name": "FunFun.AI-Q版大頭貼生成",
+        "filename": "FunFun.AI-Q版大頭貼生成.md"
+      },
+      {
+        "id": "16UtVcaeCvBdiEdwklUFjad6Q2iwHsz-E",
+        "name": "FunFun.AI-FormalHelp",
+        "filename": "FunFun.AI-FormalHelp.md"
+      },
+      {
+        "id": "19wBxIgz7VzCEqk25JC-hDROFOlH4s9ZD",
+        "name": "RayStock AI 股票分析 v4.1 - 是 Ray 不是 Array",
+        "filename": "RayStock AI 股票分析 v4.1 - 是 Ray 不是 Array.md"
+      },
+      {
+        "id": "1GR-UGtZcls6MItMsiOuR9dil4Ux9C_MO",
+        "name": "FunFun.AI-自評日記小助手",
+        "filename": "FunFun.AI-自評日記小助手.md"
+      },
+      {
+        "id": "1MMoW6jaLMkLp4qR_BfcZPaqaSOK44clf",
+        "name": "FunFun.AI-錄音編碼師",
+        "filename": "FunFun.AI-錄音編碼師.md"
+      },
+      {
+        "id": "1OszazFMdXwsoPrNr2VjLDEmtzHEAhr8g",
+        "name": "FunFun.AI-極簡Q版彩色手繪塗鴉",
+        "filename": "FunFun.AI-極簡Q版彩色手繪塗鴉.md"
+      },
+      {
+        "id": "1VN7OEAeHre581ZS3c0zmZUoZyk4Q_HhO",
+        "name": "FunFun.AI-教學計畫專家",
+        "filename": "FunFun.AI-教學計畫專家.md"
+      },
+      {
+        "id": "1XdjKsnUjckh8eDSjsBXggZrPed-e5P8f",
+        "name": "國小五年級社會探究學習",
+        "filename": "國小五年級社會探究學習.md"
+      },
+      {
+        "id": "1etrgLRx8Gbg7cuH7tWfB8OP-ddeQ-0yy",
+        "name": "FunFun.AI- GraduatePoet",
+        "filename": "FunFun.AI- GraduatePoet.md"
+      },
+      {
+        "id": "1m2j0G_Wz2U78_1UPeWWzxNadRYOqwfPN",
+        "name": "FunFun.AI-輔導紀錄撰寫機器人",
+        "filename": "FunFun.AI-輔導紀錄撰寫機器人.md"
+      }
+    ]
+  }
+}

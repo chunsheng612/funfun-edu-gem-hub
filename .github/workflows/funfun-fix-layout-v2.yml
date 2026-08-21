@@ -1,0 +1,48 @@
+name: Fix repository layout v2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-layout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Move uploaded files into project folders
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p gems references scripts .github/ISSUE_TEMPLATE .github/workflows
+
+          for file in *.md; do
+            [ -e "$file" ] || continue
+            case "$file" in
+              README.md|SKILL.md|PULL_REQUEST_TEMPLATE.md) ;;
+              *) mv -- "$file" gems/ ;;
+            esac
+          done
+
+          for file in categories.json gems_quick_index.md gems_registry.json; do
+            [ -e "$file" ] && mv -- "$file" references/
+          done
+
+          for file in *.py; do
+            [ -e "$file" ] && mv -- "$file" scripts/
+          done
+
+          [ -e new_gem_request.yml ] && mv -- new_gem_request.yml .github/ISSUE_TEMPLATE/
+          [ -e PULL_REQUEST_TEMPLATE.md ] && mv -- PULL_REQUEST_TEMPLATE.md .github/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fix repository layout"
+          git push
